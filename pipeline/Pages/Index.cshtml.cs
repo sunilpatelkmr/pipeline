@@ -6,7 +6,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.Extensions.Logging;
 
-//comment testing
+//comment testing for task closure
 namespace pipeline.Pages
 {
     public class IndexModel : PageModel
